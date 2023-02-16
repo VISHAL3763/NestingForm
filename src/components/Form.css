@@ -1,0 +1,65 @@
+.form {
+    display: flex;
+    gap: 25px;
+    padding: 40px;
+}
+
+.newformbuttons{
+    background-color: #375a9e;
+    color: white;
+    border-radius: 10px;
+    height: 30px;
+    padding: 5px;
+}
+
+.newformlots{
+  border-radius: 10px;
+}
+
+.forminputs{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    height: 30px;
+    padding: 5px;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.checkboxbtn{
+    display: flex;
+    gap: 330px;
+    padding: 30px;
+    padding-left: 155px;
+}
+
+.checkboxbtn span{
+    padding-left: 10px;
+}
+
+.abc{
+    padding: 10px;
+    border-radius: 10px;
+    padding-left: 50px;
+}
+
+.newformbutton{
+    display: flex;
+    gap: 10px;
+    padding-left: 150px;
+}
+
+.bot{
+    display: flex;
+}
+
+.final{
+    display: flex;
+    padding-left: 500px;  
+    padding-top: 50px;
+}
